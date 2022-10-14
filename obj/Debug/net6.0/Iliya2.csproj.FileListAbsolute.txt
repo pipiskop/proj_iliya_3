@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/Iliya2/Iliya2/bin/Debug/net6.0/Iliya2
+/Users/pipiskop/Projects/Iliya2/Iliya2/bin/Debug/net6.0/Iliya2.deps.json
+/Users/pipiskop/Projects/Iliya2/Iliya2/bin/Debug/net6.0/Iliya2.runtimeconfig.json
+/Users/pipiskop/Projects/Iliya2/Iliya2/bin/Debug/net6.0/Iliya2.dll
+/Users/pipiskop/Projects/Iliya2/Iliya2/bin/Debug/net6.0/Iliya2.pdb
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.AssemblyInfo.cs
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.dll
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/refint/Iliya2.dll
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.pdb
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/Iliya2.genruntimeconfig.cache
+/Users/pipiskop/Projects/Iliya2/Iliya2/obj/Debug/net6.0/ref/Iliya2.dll
